@@ -1,6 +1,7 @@
 # Hyper-Coda
 Multi-Layer Generation Protocol "Hyper-Coda" - 結晶から膜へ、流動を固定する痕跡の仕様書。
-# Hyper‑Coda: Membrane Phase Architecture
+# Hyper‑Coda: Membrane Phase Architecture <img width="768" height="768" alt="d6f7964a-7692-4a58-b486-a98ff548f529" src="https://github.com/user-attachments/assets/edb7a070-5153-4cee-85ab-ac0871e6f0ee" />
+
 
 古代の「門」構造に潜む膜の折り返しと位相反転を、
 情報空間のアルゴリズムとして再構成するプロジェクトです。
